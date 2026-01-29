@@ -38,8 +38,8 @@ def get_long_description():
 
 
 setup(
-    name='pytgvoip_pyrogram',
-    version=get_version(),
+    name='stefano-pytgvoip-pyrogram',
+    version='0.0.12',
     license='LGPLv3+',
     author='bakatrouble',
     author_email='bakatrouble@gmail.com',
@@ -56,7 +56,7 @@ setup(
     python_required='~=3.5',
     packages=['tgvoip_pyrogram'],
     install_requires=[
-        'pytgvoip >= 0.0.7',
+        'stefano-pytgvoip==0.0.7.2',
         'pyrogram >= 1.0.0'
     ],
     zip_safe=False,
