@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/pytgvoip_pyrogram.svg?style=flat)](https://pypi.org/project/pytgvoip_pyrogram/)
 
-**Sample usage of [PytgVoIP](https://github.com/Sanji78/pytgvoip) library with [Pyrogram](https://github.com/Sanji78/pyrogram)**
+**Sample usage of [PytgVoIP](https://github.com/Sanji78/telegram_voip) library with [Pyrogram](https://github.com/Sanji78/pyrogram)**
 
 ```python
 # making outgoing calls
