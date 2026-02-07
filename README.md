@@ -70,7 +70,14 @@ $ ffmpeg -i input.mp3 -f s16le -ac 1 -ar 48000 -acodec pcm_s16le input.raw  # en
 $ ffmpeg -f s16le -ac 1 -ar 48000 -acodec pcm_s16le -i output.raw output.mp3  # decode
 ```
 
-## Copyright & License
-* Copyright (C) 2019 [bakatrouble](https://github.com/bakatrouble)
-* Licensed under the terms of the [GNU Lesser General Public License v3 or later (LGPLv3+)](COPYING.lesser)
+## ❤️ Donate
+If this project helps you, consider buying me a coffee:  
+**[PayPal](https://www.paypal.me/elenacapasso80)**.
+
+..and yes... 😊 the paypal account is correct. Thank you so much!
+
+---
+
+## 📜 License
+[MIT](LICENSE.md)
 
