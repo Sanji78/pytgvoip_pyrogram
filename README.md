@@ -2,13 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/pytgvoip_pyrogram.svg?style=flat)](https://pypi.org/project/pytgvoip_pyrogram/)
 
-**Sample usage of [PytgVoIP](https://github.com/bakatrouble/pytgvoip) library with [Pyrogram](https://github.com/bakatrouble/pyrogram)**
-
-Hopefully `pytgvoip` support will be [integrated in Pyrogram itself](https://github.com/pyrogram/pyrogram/pull/218), but this repository would still be available as reference even after merge. 
-
-Detailed `pytgvoip` usage guide is also available [here](https://pytgvoip.readthedocs.io/en/latest/guides/usage.html)  
-
-[Community](https://t.me/pytgvoip)
+**Sample usage of [PytgVoIP](https://github.com/Sanji78/pytgvoip) library with [Pyrogram](https://github.com/Sanji78/pyrogram)**
 
 ```python
 # making outgoing calls
