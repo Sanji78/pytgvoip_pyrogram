@@ -38,7 +38,7 @@ def get_long_description():
 
 
 setup(
-    name='pytgvoip_pyrogram',
+    name='stefano-pytgvoip-pyrogram',
     version="0.0.14",
     license='LGPLv3+',
     author='bakatrouble',
