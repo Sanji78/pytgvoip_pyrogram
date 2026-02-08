@@ -39,24 +39,24 @@ def get_long_description():
 
 setup(
     name='stefano-pytgvoip-pyrogram',
-    version="0.0.16",
+    version="0.1.0",
     license='LGPLv3+',
     author='Sanji78',
     author_email='stefano.giugliano78@gmail.com',
     description='Pyrogram support module for Telegram VoIP Library for Python',
     long_description=get_long_description(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Sanji78/pytgvoip_pyrogram',
+    url='https://github.com/Sanji78/stefano-pytgvoip-pyrogram',
     keywords='telegram messenger voip library python pyrogram',
     project_urls={
-        'Tracker': 'https://github.com/Sanji78/pytgvoip_pyrogram/issues',
-        'Source': 'https://github.com/Sanji78/pytgvoip_pyrogram',
+        'Tracker': 'https://github.com/Sanji78/stefano-pytgvoip-pyrogram/issues',
+        'Source': 'https://github.com/Sanji78/stefano-pytgvoip-pyrogram',
     },
     python_required='~=3.5',
     packages=['tgvoip_pyrogram'],
     install_requires=[
-        'stefano-pytgvoip>=0.0.7.6',
-        'stefano-Pyrogram>=2.0.107'
+        'stefano-pytgvoip>=0.0.8.0',
+        'stefano-pyrogram>=2.1.0'
     ],
     zip_safe=False,
     classifiers=[
@@ -71,6 +71,12 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
+        'Programming Language :: Python :: 3.13',
         'Programming Language :: Python :: Implementation',
         'Programming Language :: Python :: Implementation :: CPython',
         'Topic :: Internet',
